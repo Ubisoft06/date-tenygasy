@@ -1,2 +1,2 @@
 # date-tenygasy
-Convertir n'importe quelle date en langue Malagasy
+Convertir n'importe quelle date en langue Malagasy en JavaFX
